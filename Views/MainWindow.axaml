@@ -13,7 +13,7 @@
         <vm:MainWindowViewModel/>
     </Design.DataContext>
 
-	<Grid RowDefinitions="Auto, *, Auto" x:Name="Root">
+	<Grid RowDefinitions="Auto, *, Auto" x:Name="Root" Margin="8">
 
 		<TextBlock Classes="h1" Text="My ToDo-List" />
 
